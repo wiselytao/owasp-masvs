@@ -8,12 +8,12 @@
 - **身份驗證(Authentication)** – 對應用程式使用者鑒別身分的驗證。
 - **自動化驗證(Automated Verification)** – 採用自動化工具(包括動態分析工具、靜態分析工具或兩者皆採用)以利用弱點特徵來發掘問題。
 - **黑箱測試(Black box testing)** – 一種軟體測試方法，能在未知內部結構與運作情形的狀況下檢驗應用程式功能。
-- **元件(Component)** – a self-contained unit of code, with associated disk and network interfaces that communicates with other components.
-- **跨站腳本(Cross-Site Scripting, XSS)** – A security vulnerability typically found in web applications allowing the injection of client-side scripts into content.
-- **密碼模組(Cryptographic module)** – Hardware, software, and/or firmware that implements cryptographic algorithms and/or generates cryptographic keys.
-- **共通弱點條目(CWE)** - CWE is a community-developed list of common software security weaknesses. It serves as a common language, a measuring stick for software security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.
-- **動態應用程式安全測試(DAST)** –Dynamic application security testing (DAST) technologies are designed to detect conditions indicative of a security vulnerability in an application in its running state.
-- **設計驗證(Design Verification)** – The technical assessment of the security architecture of an application.
+- **元件(Component)** – 一個獨立的程式碼，具有與其他元件通訊的相關磁碟和網路介面。
+- **跨站腳本(Cross-Site Scripting, XSS)** – 一種常在網頁應用程式中發現的安全弱點，能將用戶端腳本注入到網頁內容之中。
+- **密碼模組(Cryptographic module)** – 實現加密演算法和/或產生密鑰的硬體、軟體和/或韌體。
+- **共通弱點條目(Common Weakness Enumeration, CWE)** - CWE 是由社群開發的常見軟體安全漏洞列表。它作為一種共通語言，是軟體安全工具的衡量標準，也是弱點識別，緩解和預防工作的基準。
+- **動態應用程式安全測試(DAST)** – 動態應用程式安全測試技術旨在檢測出處於運行狀態的應用程式中的安全漏洞。
+- **設計驗證(Design Verification)** – 應用程式安全架構的技術評估。
 - **動態驗證(Dynamic Verification)** – The use of automated tools that use vulnerability signatures to find problems during the execution of an application.
 - **全局唯一識別元(Globally Unique Identifier, GUID)** – a unique reference number used as an identifier in software.
 - **超文本傳輸協定(Hyper Text Transfer Protocol, HTTP)** – An application protocol for distributed, collaborative, hypermedia information systems. It is the foundation of data communication for the World Wide Web.
